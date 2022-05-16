@@ -1,4 +1,4 @@
-<p align="center"><a href="https://mandykr.github.io"><img width="80%" src="./assets/gh-readme-header.PNG" /></a></p>
+<p align="center"><a href="https://mandykr.tistory.com/"><img width="80%" src="./assets/gh-readme-header.PNG" /></a></p>
 
 <br />
 
